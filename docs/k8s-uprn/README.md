@@ -1,6 +1,6 @@
 # Kubernetes 启动指南
 
-> 原文：[`zh.annas-archive.org/md5/be21eeebe72acd4358284a68e1289aea`](https://zh.annas-archive.org/md5/be21eeebe72acd4358284a68e1289aea)
+> 原文：[Kubernetes : up and running : dive into the future of infrastructure](https://zh.annas-archive.gl/md5/be21eeebe72acd4358284a68e1289aea)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

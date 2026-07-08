@@ -1,6 +1,6 @@
 # GitOps 秘籍
 
-> 原文：[`zh.annas-archive.org/md5/76852e1f8699ee05381233cbc5f94f1c`](https://zh.annas-archive.org/md5/76852e1f8699ee05381233cbc5f94f1c)
+> 原文：[GitOps Cookbook: Kubernetes Automation in Practice](https://zh.annas-archive.gl/md5/76852e1f8699ee05381233cbc5f94f1c)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

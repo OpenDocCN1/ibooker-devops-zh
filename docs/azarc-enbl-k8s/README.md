@@ -1,6 +1,6 @@
 # Azure Arc 支持的面向多云的 Kubernetes 指南
 
-> 原文：[`zh.annas-archive.org/md5/d59529b1ef4e2848b60fd4981536534c`](https://zh.annas-archive.org/md5/d59529b1ef4e2848b60fd4981536534c)
+> 原文：[Azure Arc Enabled Kubernetes for Multicloud](https://zh.annas-archive.gl/md5/d59529b1ef4e2848b60fd4981536534c)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 
